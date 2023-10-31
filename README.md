@@ -204,4 +204,4 @@ and come up with the best performing ML model, the code is written in jupyter no
 - MLOps framework can be implemented to take care of model versioning , CI/CD in cloud. For e.g. orchestration tools like Airflow can take of automatic scheduling of the data and ML pipeline, model monitoring, model retraining, checking for data drift and model drift over time, model evaluation, load balancing incoming requests to the API etc.,
 
 
-Please find the detailed observation, experiments and results in the below notebook
+Please find the detailed observation, experiments and results in the notebook file Bank_marketing_case_study.ipynb 
